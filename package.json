@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TheGeekEngineer/usersextras/issues"
   },
-  "homepage": "https://github.com/TheGeekEngineer/usersextras#readme"
+  "homepage": "https://github.com/TheGeekEngineer/usersextras#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  },
 }
