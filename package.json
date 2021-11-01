@@ -1,7 +1,7 @@
 {
   "name": "usersextras",
   "version": "1.0.0",
-  "description": "Laravel Users Extras",
+  "description": "",
   "main": "index.js",
   "directories": {
     "test": "tests"
